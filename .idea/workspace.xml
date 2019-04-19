@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="306d7dd2-aa5c-41d2-b72f-bee86e0e5f7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/01-常量和变量.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/02-数值.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/03-布尔.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/04-字符串.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/05-数组List.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/06-字典Map.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/07-Iterable.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/08-集合Set.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/09-Runes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/10-symbol-enum-comments.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/11-日期时间.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/12-函数.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/13-类.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/14-set和get.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/15-静态变量和方法.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/16-abstract 抽象.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/17-interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/18-factory.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart语法/19-库的使用.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart语法/19-库的使用.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Dart语法/19-库的使用.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,7 +17,7 @@
     <session id="-744153229">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="3" />
@@ -57,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="3553" />
+          <entry key="dart" value="3573" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="3540" />
+          <entry key="Dart" value="3560" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -96,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dart语法/19-库的使用.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="300">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -259,15 +239,16 @@
       <updated>1555038634239</updated>
       <workItem from="1555038636471" duration="1246000" />
       <workItem from="1555040012924" duration="107000" />
-      <workItem from="1555040232541" duration="19973000" />
+      <workItem from="1555040232541" duration="20574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21326000" />
+    <option name="totallyTimeSpent" value="21927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1255" y="23" width="1168" height="1275" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19965127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,7 +256,7 @@
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40067625" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40067625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dart语法/19-库的使用.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
