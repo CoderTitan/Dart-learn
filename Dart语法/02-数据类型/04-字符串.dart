@@ -97,7 +97,7 @@ main() {
   print(str1.startsWith('h'));  //false
   print(str1.startsWith('tit')); //true
   print(str1.startsWith('it', 1)); //true
-  print(str1.startsWith(new RegExp(r'[A-Z][a-z]'), 1)); //false
+  print(str1.startsWith(RegExp(r'[A-Z][a-z]'), 1)); //false
 
 
   // 根据指定的字符(字符串)获取其在原字符串中第一次出现的索引值, 顺序是从左到右

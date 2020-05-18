@@ -5,19 +5,19 @@ void main() {
 
 
   // assert 断言
-  // var a = true;
-  // assert(a);
-  // var name = '';
-  // assert(name.isEmpty);
-  // assert(name.isNotEmpty);
-  // var num = 0 / 0;
-  // assert(num.isNaN);
+  var a = true;
+  assert(a);
+  var name = '';
+  assert(name.isEmpty);
+  assert(name.isNotEmpty);
+  var num = 0 / 0;
+  assert(num.isNaN);
 
 
   // 只有 true 对象才被认为是 true。 所有其他的值都是 flase。
-  // String name = 'ducafecat';
-  // if(name) {
-  //   print('this is name');
+  // String name1 = 'ducafecat';
+  // if(name1) {
+  //   print('this is name1');
   // }
 
 

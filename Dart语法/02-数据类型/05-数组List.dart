@@ -3,7 +3,7 @@ main() {
   print(l1.length);  //3
 
 // 下面这种写法会报错
-  l1.length = 1;
+  // l1.length = 1;
 
   // 这两种方式一样
   var l10 = new List();

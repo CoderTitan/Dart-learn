@@ -68,8 +68,8 @@ main() {
   // print(a);
 
   // >> 右移
-  // var a = 10 >> 1;
-  // print(a);
+  var a = 10 >> 1;
+  print(a);
 
 
 }

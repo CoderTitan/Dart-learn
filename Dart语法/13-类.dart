@@ -2,7 +2,8 @@ main() {
 
   // 初始化类
   var point = new Point();
-  print(point);
+  point.x = 1;
+  point.getsize();
 
 
   var point1 = Point1(1, 3);
@@ -21,13 +22,13 @@ main() {
 
 
 // 创建类
-// 未指明父类的时候, 默认继承自Object
 class Point {
   // 定义变量
-  num x;
-  num y;
-  num z;
+  int x;
 
+  void getsize() {
+    print('x = $x');
+  }
 }
 
 
@@ -73,12 +74,5 @@ class Point3 {
 
 
 // 必须被初始化的变量
-class Point4 {
-  final num x;
-  final num y;
 
-  Point4() {
-
-  }
-}
 
